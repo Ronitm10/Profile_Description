@@ -2,7 +2,7 @@
 
 - I'm a Software Engineering Graduate from Northeastern University, Boston (August 2021 - December 2023)
 - Interested in
-## Software Developer · Back End Developer · Full-stack Developer · Site Reliability Engineer · Security Software Engineer
+##### Software Developer · Back End Developer · Full-stack Developer · Site Reliability Engineer · Security Software Engineer
 - Exploring and learning DevOps, AWS Services
 - Reach out to me: chougule.r@northeastern.edu
 
